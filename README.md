@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### 📊 GitHub Stats
-![Bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleyyang&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleyyang&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleyyang&layout=compact&theme=radical)
 
 ### 🌐 Connect With Me
