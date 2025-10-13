@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 **Computational Mathematics + Computing @ University of Waterloo**
-
-💻 Software Engineering Intern @ ParkUsher
-
+🎓 **Computational Mathematics + Computing @ University of Waterloo**  
+💻 Software Engineering Intern @ ParkUsher  
 🚀 Passionate about building scalable, efficient, and thoughtful software
 
 ### ⚙️ Tech Stack
