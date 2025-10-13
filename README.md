@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 **Computational Mathematics + Computing @ University of Waterloo**  
-💻 Passionate about building scalable, efficient, and thoughtful software
+🎓 **Computational Mathematics + Computing @ University of Waterloo**
+💻 Software Engineering Intern @ ParkUsher
+🚀 Passionate about building scalable, efficient, and thoughtful software
 
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
