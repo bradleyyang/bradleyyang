@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Bradley
 - 🚀 Writing code and learning along the way
-- 📫 Connect with me at [bradley.yang023@gmail.com](mailto:bradley.yang023@gmail.com)
+- 📫 Reach me at [bradley.yang023@gmail.com](mailto:bradley.yang023@gmail.com)
